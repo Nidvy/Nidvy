@@ -1,0 +1,2 @@
+# Rust build artifacts - only ignore host/target/
+host/target/
